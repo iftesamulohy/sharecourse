@@ -1,0 +1,8 @@
+.shop-container{
+    display:flex;
+}
+.single-product{
+    width:70%;
+    padding: 10px;
+    
+}
